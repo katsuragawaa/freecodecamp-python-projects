@@ -5,7 +5,7 @@
 ## Arithmetic Formatter
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side.
 
-### Function Call:
+Function Call:
 ```
 arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
 arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
@@ -21,7 +21,7 @@ Output:
 ## Budget App
 Create a "Category" class that can be used to create different budget categories.
 
-### Here is an example of the output:
+Here is an example of the output:
 ```
 *************Food*************
 initial deposit        1000.00
@@ -81,7 +81,7 @@ add_time("6:30 PM", "205:12")
 ## Polygon Area Calculator
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
-### Usage example
+Usage example
 ```
 rect = shape_calculator.Rectangle(10, 5)
 print(rect.get_area())
